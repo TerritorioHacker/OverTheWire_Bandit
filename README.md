@@ -7,6 +7,6 @@ Aquí encontraréis los disntintos scripts que iremos utilizando durante todo el
 
 ## [Territorio Hacker: Ejercicios Resueltos OverTheWire Bandit](https://territoriohacker.com/overthewire-bandit-1/)
 
-### [Script Bandit 0: Auto conectado por SSH y guardado de la contreña.](https://github.com/TerritorioHacker/OverTheWire_Bandit/blob/main/startBanditSSH.sh)
+### [Script Bandit 0: Auto conectado por SSH y Guardado de las Contraseñas.](https://github.com/TerritorioHacker/OverTheWire_Bandit/blob/main/startBanditSSH.sh)
 
 ### [Script Bandit 12: Descompresor de Archivos.](https://github.com/TerritorioHacker/OverTheWire_Bandit/blob/main/scriptBandit12.sh)
